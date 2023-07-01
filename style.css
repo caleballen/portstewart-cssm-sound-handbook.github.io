@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700");
+
+body {
+    font-family: 'Roboto';
+    font-size: 0.875rem;
+}
+
+@media print {
+    div, ul, p, section {
+        break-inside: avoid;
+    }
+}
+h1, h2, h3 {
+    color: #0757a4
+}
+
+a, strong {
+    color: #51b5d3
+}
+
+blockquote {
+    color: #e7a735;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
