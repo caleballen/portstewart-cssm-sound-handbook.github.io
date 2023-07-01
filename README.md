@@ -1,3 +1,19 @@
+### Contents:
+- [All you need to know](#all-you-need-to-know)
+    1. [Equipment you'll need](#equipment-youll-need)
+    2. [Speaker setup](#speaker-setup)
+    3. [Desk setup](#desk-setup)
+    4. [Mic and music setup](#mic-and-music-setup)
+    5. [Start it up!](#start-it-up)
+    6. [Testing](#testing)
+    7. [Basic operation](#basic-operation)
+- [Guides](#guides)
+    - [The desk crash course](#the-desk-crash-course)
+    - [Wired mics and instruments](#wired-mics-and-instruments)
+    - [Settings reset](#settings-reset)
+- [Troubleshooting](#troubleshooting)
+- [Extra nerdy stuff](#extra-nerdy-stuff)
+
 ## All you need to know 
 
 ### Equipment you'll need:
@@ -12,8 +28,9 @@
     - receiver unit power adapter
     - short jack cable
     - Europe to UK plug adapter
+- AA Batteries
 
-### Speaker Setup:
+### Speaker setup:
 1. Unpack each speaker and power cable and place it where you want. The edges of the stage are a good location.
 2. Connect the power cables to the back of each speaker and plug it in to a plug or extension lead.
 3. Plug an XLR (3 pin) cable into the back of the speaker in the port labeled **INPUT 1**. It can only go in one way up and only one end will fit into the speaker! Make sure this cable is long enough to run to where you want the desk.
@@ -22,18 +39,18 @@
 - **INPUT 2** should be all the way down as there's nothing plugged into it.
 - **EQUALIZER** should be set to 0 on both HIGH and LOW - this means treble and bass sound neutral.
 
-### Desk Setup:
+### Desk setup:
 1. Unpack the mixer and its power cable.
 2. Connect the power cable to the back of the mixer and plug it in.
 3. Plug the XLR cables connected to the speakers into the desk. Plug the right speaker (looking at the stage from the audience) into the **MAIN OUTPUTS R** and the left speaker into the **MAIN OUTPUTS L**. Mixing these up just means sound comes out the opposite speaker (but it will work)!
 
-### Mic and Music Setup
+### Mic and music Setup
 1. Open the radio mic box and take out the receiver unit. Place it somewhere near the desk.
 2. Plug the power cable into the receiver unit and the plug into the EU adapter. Plug that into an extension cable or wall plug.
 3. Plug the short jack cable into the receiver unit and then into Channel 1's **LINE IN** input.
 4. Unbox the transmitter pack. Take out the headset mic and carefully screw the headset mic plug into the transmitter pack input.
 5. Repeat 1-4 for the second radio mic. Note that each transmitter pack is bound to a receiver unit, they are not swappable and do not interfere.
-6. Take the Stereo AUX Cable and plug it into Channel 5/6. The white jack plugs into **L** and the red jack into **R**.
+6. Take the Stereo AUX Cable and plug it into Channel **5/6**. The white jack plugs into **L** and the red jack into **R**.
 
 ### Start it up!
 1. Turn on the power for the desk using the switch on the back at the right hand side labelled **POWER ON**. An amber light should appear on the front.
@@ -48,6 +65,7 @@
 4. Turn the **MAIN MIX** sliders up to zero.
 5. Move the **5/6** slider up.
 6. The **L-R** LEDs should be lighting up and sound should be playing.
+
 #### Mics
 1. Turn on the transmitter pack, the receiver unit **RF** LED should light up amber.
 2. Speak into the headset mic, the **AUDIO** LED should light up green.
@@ -59,7 +77,7 @@
 2. Have someone speak into each MIC. For each adjust the MIC channel volume slider towards zero and then the gain to get the volume you want. Use the mute buttons and sliders to mute when not in use.
 3. For music use channels 5/6 or 7/8 and use the volume slider to adjust to the desired volume.
 
-## Guide
+## Guides
 ### The desk crash course
 - The desk is split into vertical channels numbered **1-4** then **5/6** and **7/8**. Each channel has an input, settings and a volume slider.
 - On the right the **MAIN MIX** is the master volume, it's the output volume to the speakers.
@@ -69,13 +87,10 @@
     - **AUX**: you don't need this
     - **PAN**: moves the sound on side or the other. Panning left sends the sound out the left speaker and vice versa.
 
-## Troubleshooting
-### Work backwards
-1. Is the desk outputting something? Test with your phone in AUX. Is the **MAIN MIX** up and LEDs lighting up? If so the issue lies with the speakers.
+### Wired Mics and Instruments
+Wired mics can be easily added, simply plug a long XLR cable into a channel on the desk and into the Mic. Adjust settings and sound should come through.
 
-## Extra nerdy stuff
-
-### Specifications
+Instruments such as keyboards and guitars can be added simply with a Jack cable or can be added with a DI Box for improved quality. If using a DI box run a jack cable from the instrument to a DI Box and an XLR cable from the balanced output into a desk channel. Phantom power or a battery may be required for DI box power.
 
 ### Settings reset
 You might want to do this if you're not sure what's going on and want a blank slate
@@ -96,3 +111,21 @@ On the right hand side
 - MAIN MIX pressed
 - 2-TR/USB TO MAIN pressed
 
+## Troubleshooting
+### Work backwards
+- Is the desk outputting something? Test with your phone in AUX. Is the **MAIN MIX** up and LEDs lighting up? If so the issue lies with the speakers. If not then it is likely the desk and some setting.
+- If troubleshooting speakers then ensure **INPUT** volume is turned up and speakers are on.
+- If troubleshooting desk ensure **MAIN MIX** is turned up and that input volume slider and **GAIN** are turned up.
+
+## Extra nerdy stuff
+
+### Specifications
+- Speakers (active):
+    - Behringer B115D
+    - 1000W Peak
+- Desk:
+    - Behringer Xenyx 1204USB
+- Mics:
+    - 2x Shure SM58 Wired Mics
+    - 1x the t.bone TWS One Headset (A Channel)
+    - 1x the t.bone TWS One Headset (B Channel)
